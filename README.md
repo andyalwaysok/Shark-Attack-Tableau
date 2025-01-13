@@ -26,5 +26,10 @@ Dataset was extracted from [here](https://www.kaggle.com/datasets/mysarahmadbhat
 - If anything other than time under Time column, they're Unknown. Cleaned the time into 2 digits (01, 02...)
 - Missing values under Species, no species were given, "large" or "small" shark, only size given, they were filled in as Unknown
 
+📍 Clean Data: [shark_data_cleaned.csv](https://github.com/andyalwaysok/Shark-Attack-Tableau/blob/main/Shark%20Attacks%20Clean.csv)
+
 ## 📊 Visualization
 Tableau: [Dashboard](https://public.tableau.com/app/profile/sung.yoon7327/viz/DashboardofSharkAttacks/SharkAttacksDashboard)
+
+
+<img width="1000" alt="image" src=https://github.com/andyalwaysok/Shark-Attack-Tableau/blob/98dce55ae5d63fe486d7c5c8c8689f1e5acdd99e/Shark%20Attacks%20Dashboard.png>
